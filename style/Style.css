@@ -1,0 +1,24 @@
+html
+{
+   background-color: grey;
+}
+section
+{
+    text-align: center;
+    text-decoration: none;
+    font: 1.5p;
+}
+nav ul
+{
+    background-color: black;
+    text-align: center;
+    font-size: 1.5em;
+}
+nav ul li a
+{
+    color:white;
+}
+nav ul li
+{
+    margin: 8px;
+}
